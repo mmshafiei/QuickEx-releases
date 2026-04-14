@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>QuickEx Exchange Package</name>
+		<description>QuickEx exchange component and bundled front-end modules.</description>
+		<element>pkg_quickex</element>
+		<type>package</type>
+		<version>0.2.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/mmshafiei/QuickEx-releases/main/build/pkg_quickex-0.2.2.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="(4\.[4-9]|5\.[0-9]+|6\.[0-9]+)" />
+		<php_minimum>8.1</php_minimum>
+		<maintainer>QuickEx</maintainer>
+		<maintainerurl>https://github.com/mmshafiei/QuickEx</maintainerurl>
+		<section>stable</section>
+		<sha256>b879581aeaf53c26abe723ad24de180dc95612ac84618e3d9628d9b33b0c9835</sha256>
+	</update>
+</updates>
